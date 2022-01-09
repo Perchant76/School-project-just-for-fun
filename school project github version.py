@@ -45,7 +45,7 @@ while zero < one:
 #this preaty thing :) shutdowned my pc 10 or more times so GLHF :)
     elif play == 'e':
         print("Toto som od teba/vás nečakal :(")
-        #os.system('shutdown /s /t 4')
+        os.system('shutdown /s /t 4')
         print('3')
         time.sleep(1)
         print('2')
