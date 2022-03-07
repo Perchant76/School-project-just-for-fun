@@ -84,4 +84,4 @@ while zero < one:
         continue
     else:
         print('ya won lol')
-#made with love and help of https://github.com/Ccondir
+#made with love
